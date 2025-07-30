@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhagirath00&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagirath00" /> </p>
 
 
-
--  **Contact me:** [patelbhagirath736@gmail.com](mailto:patelbhagirath736@gmail.com)
+**Contact me:** [patelbhagirath736@gmail.com](mailto:patelbhagirath736@gmail.com)
 
 <p align="left">
 
