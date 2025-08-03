@@ -6,15 +6,21 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Bhagirath00&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagirath00" />
+  <img src="https://komarev.com/ghpvc/?username=Bhagirath00&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagirath00" /> 
+  
 </p>
-
-[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-blue?style=flat&logo=firefox&logoColor=white)](https://www.codolio.io/bhagirath00)
 
 
 **Contact me:** [patelbhagirath736@gmail.com](mailto:patelbhagirath736@gmail.com)
 
-<p align="left">
+<p align="left"><p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhagirath00&style=flat&color=blue" alt="Profile views"/>
+  &nbsp;&nbsp;
+  <a href="https://codolio.com/profile/bhagirath00" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-blue?style=flat" alt="Codolio Profile"/>
+  </a>
+</p>
+
 
  
 </p>
