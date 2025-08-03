@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=850&lines=Hey+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=760&lines=Hey,+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
-
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=bhagirath00&color=yellow)](https://github.com/bhagirath00)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
