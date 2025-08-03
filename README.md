@@ -1,11 +1,6 @@
-<h1 align="center">
-  <a href="https://github.com/Bhagirath00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hey%2C+I'm+Bhagirath+Patel" alt="Typing SVG" />
-  </a>
-</h1>
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=850&lines=Hey+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</p>
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bhagirath00&color=yellow)](https://github.com/bhagirath00)
