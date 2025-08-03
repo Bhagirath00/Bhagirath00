@@ -1,32 +1,21 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=600&lines=Hey,+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=500&lines=Hey,+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 </br>
 
 
+<div align="center">
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=bhagirath00&color=yellow)](https://github.com/bhagirath00)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
 
 
-<div align="center">
-
-  <a href="https://github.com/bhagirath00">
-    <img src="https://komarev.com/ghpvc/?username=bhagirath00&label=Profile%20views&color=yellow&style=flat" alt="Profile views"/>
-  </a>
-
-  <a href="https://codolio.com/profile/bhagirath00">
-    <img src="https://img.shields.io/badge/Codolio-Portfolio-blueviolet?style=flat&logo=internet-explorer" alt="Codolio"/>
-  </a>
-
-  <a href="mailto:patelbhagirath736@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
 </div>
+
 
 
  
