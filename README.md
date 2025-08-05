@@ -1,11 +1,8 @@
-<br>
-
+<h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFB&center=true&vCenter=true&width=510&lines=Hey,+i'm+Bhagirath+Patel;DevOps+%7C+AWS+%7C+Automation;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
-
-</br>
-
+</h1>
 
 <div align="center">
   
@@ -13,13 +10,7 @@
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
 
-
 </div>
-
-
-
- 
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhagirath00&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
@@ -27,15 +18,10 @@
 </p>
 
 
-
-
 [![Bhagirath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagirath00&theme=github-compact&hide_border=true	)](https://github.com/Bhagirath00)
 
-<p> 
-</p>
+<h2 align="center"; color="#007BFB"> Tools & Technologies</h2>
 
-
-- <span style="color:#C3C3C3" > Tools & Technologies</span>
 <p>
   <img align="left" alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
