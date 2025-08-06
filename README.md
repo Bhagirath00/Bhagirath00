@@ -11,6 +11,9 @@
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b7df734-7579-4c1c-b464-39a65633d0fa/deploy-status)](https://app.netlify.com/projects/venerable-sawine-de2b33/deploys)
+
 </div>
 
 <p align="center">
