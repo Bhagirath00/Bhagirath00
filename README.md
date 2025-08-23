@@ -5,11 +5,14 @@
 </h1>
 
 <div align="center">
-  
+
+ <!-- Stats Section -->
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat&logo=firefox)](https://your-portfolio-link)
 [![Profile Views](https://komarev.com/ghpvc/?username=bhagirath00&color=yellow)](https://github.com/bhagirath00)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
+
 </div>
 
 <p align="center">
@@ -18,38 +21,49 @@
 </p>
 
 
-[![Bhagirath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagirath00&theme=github-compact&hide_border=true	)](https://github.com/Bhagirath00)
+<!-- Contribution Graph -->
+[![Bhagirath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagirath00&theme=github-compact&hide_border=true)](https://github.com/Bhagirath00)
 
-<h2 align="center"; color="#007BFB"> Tools & Technologies</h2>
 
+<!-- Right side GIF -->
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<!-- Tools & Technologies -->
+### Tools
 <p>
-<div>
+  <img align="left" alt="Maven" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img align="left" alt="Gradle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
+  <img align="left" alt="Selenium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="left" alt="Postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+</p>
+<br/>
+
+
+### Language & Frames
+<p>
   <img align="left" alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <!-- <img align="left" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
-   <img  align="left" alt="amazonwebservices logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
-  <img align="left" alt="docker logo" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="left" alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Spring Boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
+<br/>
+
+### DevOps
+<p>
+  <img align="left" alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="Amazon Web Services" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
+  <img align="left" alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="left" alt="Kubernetes" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="left" alt="Jenkins" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="left" alt="Terraform" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="left" alt="Ansible" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
   <img align="left" alt="Grafana" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-
-
-</div>
+  <img align="left" alt="Podman" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />
+  <img align="left" alt="Prometheus" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
 </p>
-
-<br><br><br>
-
-
-
-
-
-
+<br/>
 
