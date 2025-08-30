@@ -8,7 +8,7 @@
 
  <!-- Stats Section -->
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat&logo=firefox)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-green?style=flat&logo=firefox)](https://bhagirath.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=bhagirath00&color=yellow)](https://github.com/bhagirath00)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange)](https://codolio.com/profile/bhagirath00)
 [![Gmail](https://img.shields.io/badge/Gmail-patelbhagirath736@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelbhagirath736@gmail.com)
